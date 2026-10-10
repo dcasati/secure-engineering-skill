@@ -1,7 +1,7 @@
 ---
-name: openbsd-engineering
+name: secure-engineering
 description: >
-  OpenBSD-inspired secure engineering for design, implementation, and review.
+  Secure engineering inspired by OpenBSD, for design, implementation, and review.
   Use whenever the user asks for secure-by-default design, trust-boundary
   analysis, least privilege, privilege separation, attack-surface reduction,
   dependency minimization, or an architectural critique, even without naming
@@ -9,7 +9,7 @@ description: >
   Not for other routine formatting, documentation, or low-risk changes.
 ---
 
-# OpenBSD-Inspired Engineering
+# Secure Engineering
 
 **Unofficial community skill.** Inspired by the OpenBSD Project's engineering
 culture. Not affiliated with or endorsed by the OpenBSD Project.

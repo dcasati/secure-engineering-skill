@@ -12,15 +12,15 @@ This skill is heavily inspired by the OpenBSD Project's engineering culture.
 
 ## Contents
 
-- [`openbsd-engineering/SKILL.md`](openbsd-engineering/SKILL.md): the skill.
+- [`secure-engineering/SKILL.md`](secure-engineering/SKILL.md): the skill.
 
 ## Usage
 
-Copy the `openbsd-engineering/` folder into your agent's skills directory (for
+Copy the `secure-engineering/` folder into your agent's skills directory (for
 example `.claude/skills/` or `.github/skills/`). The agent loads it when a
 request involves secure-by-default design, trust boundaries, least privilege,
 privilege separation, attack-surface reduction, or Bash scripting.
 
 ## License
 
-No license has been chosen yet; all rights are reserved until one is added.
+[ISC](LICENSE).
